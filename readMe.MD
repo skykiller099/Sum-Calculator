@@ -74,7 +74,7 @@ Merci d’ouvrir une issue ou de proposer une pull request.
 
 ## Licence
 
-Ce projet est distribué sous licence MIT. [LICENSE](https://github.com/skykiller099/Sum-Calculator/blob/main/LICENSE=)
+Ce projet est distribué sous licence MIT. [LICENSE](https://github.com/skykiller099/Sum-Calculator/blob/main/LICENSE)
 
 ---
 
